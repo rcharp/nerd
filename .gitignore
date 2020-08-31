@@ -1,0 +1,8 @@
+/instance
+.env
+celerybeat-schedule
+node_modules
+ngrok.py
+/venv
+/build
+.idea

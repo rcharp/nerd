@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        nerdwallet=cli.cli:cli
+    
