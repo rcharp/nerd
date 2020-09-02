@@ -13,8 +13,8 @@ flake8==3.7.6
 Click==7.0
 
 # Data and workers.
-psycopg2==2.7.7
-psycopg2-binary==2.8.2
+# psycopg2==2.7.7
+# psycopg2-binary==2.8.2
 Flask-SQLAlchemy==2.3.2
 redis==3.2.0
 amqp==2.4.1
@@ -37,9 +37,9 @@ stripe==2.42.0
 tzlocal==1.5.1
 python-dateutil==2.8.0
 flask-compress==1.4.0
-cryptography==2.9.2
+# cryptography==2.9.2
 pyOpenSSL==19.1.0
-simple-crypt==4.1.7
+# simple-crypt==4.1.7
 pur==5.2.1
 Werkzeug==0.14.1
 repos==0.0.1
